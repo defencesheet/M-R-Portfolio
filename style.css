@@ -4,7 +4,7 @@
     box-sizing: border-box; 
 }
 #banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(main.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(asserts/main.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
